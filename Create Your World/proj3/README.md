@@ -1,6 +1,6 @@
 # 🌐  BYOW: World Generation and Exploration Engine
 
-🎥 Project Demo Video
+🎥 [Project Demo Video](https://youtu.be/bQwfuI0wq3M)
 
 **Class:** [COMPSCI 61B: Data Structures](https://sp23.datastructur.es/materials/proj/proj3/) \
 **Date:** Spring 2023 \
